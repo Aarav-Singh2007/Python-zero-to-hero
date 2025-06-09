@@ -13,7 +13,7 @@ print(price)
 print("my name is :", name)
 print("my age is :", age2)
 print(type(name))
-print(type(age)
-      print(type(price))
+print(type(age))
+print(type(price))
 
 
