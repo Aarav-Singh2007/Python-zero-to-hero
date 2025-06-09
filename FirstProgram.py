@@ -18,3 +18,5 @@ print(type(price))
 
 
 print(25*8)
+old = False
+a = None
