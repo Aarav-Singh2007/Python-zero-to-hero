@@ -17,3 +17,4 @@ print(type(age))
 print(type(price))
 
 
+print(25*8)
